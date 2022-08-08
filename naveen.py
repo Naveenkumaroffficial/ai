@@ -9,7 +9,7 @@
 # c = float(input());
 
 # print('sum of a,b & c =');
-# print(int (a+b+c));
+# print(int (a+b+c)); 
 
 
 from audioop import findfactor
