@@ -1,0 +1,221 @@
+Learn python
+
+Topic we will cover in core python
+---------------------------------------
+
+1. introduction to python
+2. installtion of python and vscode
+3. Reserved words and identifiers
+4. data types
+5. type casting
+6. opeators
+7. input and output statments
+8.command line arguments
+9. control flow
+10. pass.del and non keyboard
+11.functions
+12. modules
+
+---------------------------------------
+
+
+1. Introduction to python
+---------------------------
+
+Python is  a general purpose high level language
+developed by guido van rossam in 1989
+national research institute netherland
+
+python publically availabe : feb 20 1991
+
+why the name python?
+"monty flying python circuss" broadcast by BBC in 1969-74
+
+feature include in python programming
+
+functional programming - c
+object orinented- c++
+mudular programming - modular-3
+scripting - perl, bash scripting
+
+Application of puython
+
+1. Web Development
+2. Game Development
+3. iot programming
+4. machine learning
+5. Artificial Intelligence
+6. Network programming
+data base programming
+
+python used in famous company
+
+google, NASA, ISRO, Yahoo, Amazon ----------
+
+featuires of python :
+simple and easy to learn 
+freeware
+open source
+pltform independent
+portable
+rich library
+extensible 
+embedded
+dynamically types 
+interpreted
+
+Limitation of python:
+----------------------
+
+mobile application 
+performance is notupto the mark
+
+flavour of python:
+----------------------
+jython
+pypy
+anconda python 
+cpython
+----------------------------------
+
+2. Installation Of python and vscode
+
+--------------------------------------
+
+3. Reserved words:
+    the words which convey special meaning to the identifiers
+    33+ keyword in python
+    reserved words also know as keyword
+
+    ['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await',
+     'break', 'class', 'continue', 
+    'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 
+    'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 
+    'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+
+
+
+True, false, None  ==> starts with upper
+
+Identifiers:
+--------------
+A Name in python is called identifier
+it can be class name, function name , variable name, module name
+
+rules to define identifiers in python
+-------------------------------------
+
+1. allowed charactee:
+alphabet (uppercase or lowercase)
+digits (0-9)
+underscore (_)
+
+
+2. should not be strt with digits
+
+3. case sensitive
+
+4we can not use reservd words (KEyword)
+
+4. data type in python
+data type represent the type of data present inside a variable
+we do not need to specify the data type exlicitly, based on values 
+
+python is a dynamically types.
+
+
+
+there are lot of inbuilt data types in python which are follow:
+
+int 
+float
+complex bool
+string
+bytes
+bytesarray
+range
+list 
+tuble
+sensitivefrozenset
+dict
+None
+
+primary data type in python:
+int
+float
+complex
+bool
+string
+
+
+type():- 
+it return the data type of the given values
+
+id():-
+it return the id of the valus of the dgiven vakues
+
+
+1. int:
+---------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
